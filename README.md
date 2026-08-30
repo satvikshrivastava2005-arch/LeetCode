@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0013-roman-to-integer) |
 | [0263-ugly-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0383-ransom-note) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
