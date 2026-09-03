@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0066-plus-one](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0643-maximum-average-subarray-i) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0066-plus-one) |
 | [0263-ugly-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0412-fizz-buzz) |
