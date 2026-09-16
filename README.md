@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0058-length-of-last-word) |
+| [0171-excel-sheet-column-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0412-fizz-buzz) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0066-plus-one) |
+| [0171-excel-sheet-column-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0263-ugly-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0412-fizz-buzz) |
