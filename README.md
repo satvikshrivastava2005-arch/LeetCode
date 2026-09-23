@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0383-ransom-note](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0412-fizz-buzz) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1678-goal-parser-interpretation](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0383-ransom-note) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Binary Search
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Stack
 |  |
