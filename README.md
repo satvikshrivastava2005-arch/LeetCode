@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0724-find-pivot-index) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## String Matching
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0287-find-the-duplicate-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Matrix
 |  |
 | ------- |
@@ -209,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
