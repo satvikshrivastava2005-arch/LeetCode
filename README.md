@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0075-sort-colors) |
+| [0084-largest-rectangle-in-histogram](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0217-contains-duplicate) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
@@ -233,4 +235,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
