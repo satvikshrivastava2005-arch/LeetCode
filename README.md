@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0058-length-of-last-word) |
 | [0151-reverse-words-in-a-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0171-excel-sheet-column-number) |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0217-contains-duplicate) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0217-contains-duplicate) |
