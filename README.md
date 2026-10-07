@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0204-count-primes) |
 | [0263-ugly-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0263-ugly-number) |
 | [0326-power-of-three](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0326-power-of-three) |
+| [0372-super-pow](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Sorting
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0372-super-pow](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0372-super-pow) |
 | [0918-maximum-sum-circular-subarray](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Bit Manipulation
 |  |
@@ -294,4 +296,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0204-count-primes) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
