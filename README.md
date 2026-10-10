@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0724-find-pivot-index) |
 | [0867-transpose-matrix](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0867-transpose-matrix) |
 | [0918-maximum-sum-circular-subarray](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
+| [0976-largest-perimeter-triangle](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1046-last-stone-weight](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1046-last-stone-weight) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## String
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0372-super-pow](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0372-super-pow) |
 | [0412-fizz-buzz](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Sorting
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0976-largest-perimeter-triangle](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -241,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0075-sort-colors) |
+| [0976-largest-perimeter-triangle](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 ## Bubble Sort
 |  |
 | ------- |
@@ -308,4 +313,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0372-super-pow) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
