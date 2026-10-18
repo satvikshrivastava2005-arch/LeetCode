@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0049-group-anagrams) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0287-find-the-duplicate-number) |
