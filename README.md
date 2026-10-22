@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0704-binary-search) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0410-split-array-largest-sum](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -269,11 +271,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0724-find-pivot-index) |
 ## Greedy
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0410-split-array-largest-sum](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0976-largest-perimeter-triangle](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0410-split-array-largest-sum](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0509-fibonacci-number) |
 | [0918-maximum-sum-circular-subarray](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 ## Monotonic Queue
