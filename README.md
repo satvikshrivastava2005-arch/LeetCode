@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1046-last-stone-weight) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0217-contains-duplicate) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [1552-magnetic-force-between-two-balls](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Simulation
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Counting
