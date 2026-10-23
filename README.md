@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0475-heaters](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0704-binary-search) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0217-contains-duplicate) |
+| [0475-heaters](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1552-magnetic-force-between-two-balls](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0475-heaters](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0475-heaters) |
 | [0567-permutation-in-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0567-permutation-in-string) |
 ## String Matching
 |  |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0410-split-array-largest-sum) |
+| [0475-heaters](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0475-heaters) |
 | [0704-binary-search](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0875-koko-eating-bananas) |
