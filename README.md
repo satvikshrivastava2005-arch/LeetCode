@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2409-count-days-spent-together](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3498-reverse-degree-of-a-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Trie
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0976-largest-perimeter-triangle) |
+| [2409-count-days-spent-together](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Sorting
 |  |
