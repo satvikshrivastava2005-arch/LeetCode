@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0058-length-of-last-word) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0509-fibonacci-number) |
@@ -385,4 +388,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
