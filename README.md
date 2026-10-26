@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0475-heaters](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0704-binary-search) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
