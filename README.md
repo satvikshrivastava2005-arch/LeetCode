@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0383-ransom-note) |
+| [0394-decode-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0567-permutation-in-string) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0735-asteroid-collision) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0224-basic-calculator) |
 | [0326-power-of-three](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0326-power-of-three) |
+| [0394-decode-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
