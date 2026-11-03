@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [2409-count-days-spent-together](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Sorting
 |  |
 | ------- |
