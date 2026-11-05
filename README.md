@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1046-last-stone-weight](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1046-last-stone-weight) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1552-magnetic-force-between-two-balls](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1870-minimum-speed-to-arrive-on-time) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0933-number-of-recent-calls) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 ## Queue
 |  |
 | ------- |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1381-design-a-stack-with-increment-operation](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
 | [1544-make-the-string-great](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1544-make-the-string-great) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2104-sum-of-subarray-ranges](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2104-sum-of-subarray-ranges) |
