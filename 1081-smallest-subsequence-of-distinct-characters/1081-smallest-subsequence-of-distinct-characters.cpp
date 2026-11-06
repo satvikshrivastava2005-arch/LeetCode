@@ -1,7 +1,7 @@
 class Solution {
 public:
     string smallestSubsequence(string s) {
-         vector<int> last(26);
+        vector<int> last(26);
         vector<bool> inStack(26, false);
         for (int i = 0; i < s.size(); i++) {
             last[s[i] - 'a'] = i;
