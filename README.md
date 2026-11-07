@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0475-heaters) |
 | [0496-next-greater-element-i](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0622-design-circular-queue](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0704-binary-search) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0933-number-of-recent-calls) |
 | [1381-design-a-stack-with-increment-operation](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1381-design-a-stack-with-increment-operation) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0622-design-circular-queue) |
 | [0918-maximum-sum-circular-subarray](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
@@ -463,4 +466,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0022-generate-parentheses) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
