@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0224-basic-calculator](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0316-remove-duplicate-letters](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0383-ransom-note](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0394-decode-string) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0326-power-of-three) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0022-generate-parentheses) |
+| [0241-different-ways-to-add-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0856-score-of-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1021-remove-outermost-parentheses) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0224-basic-calculator) |
+| [0241-different-ways-to-add-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0326-power-of-three) |
 | [0394-decode-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0509-fibonacci-number) |
@@ -385,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0241-different-ways-to-add-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0509-fibonacci-number) |
@@ -464,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0509-fibonacci-number) |
 ## Binary Indexed Tree
 |  |
