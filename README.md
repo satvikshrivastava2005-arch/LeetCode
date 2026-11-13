@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0383-ransom-note) |
 | [0394-decode-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0402-remove-k-digits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0567-permutation-in-string) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0326-power-of-three](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0326-power-of-three) |
 | [0372-super-pow](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0372-super-pow) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0287-find-the-duplicate-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Matrix
 |  |
 | ------- |
