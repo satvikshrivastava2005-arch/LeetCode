@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2073-time-needed-to-buy-tickets](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 ## Two Pointers
