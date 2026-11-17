@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0189-rotate-array) |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0264-ugly-number-ii) |
 | [0410-split-array-largest-sum](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0410-split-array-largest-sum) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/satvikshrivastava2005-arch/LeetCode/tree/master/0509-fibonacci-number) |
 ## Binary Indexed Tree
